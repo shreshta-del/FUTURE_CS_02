@@ -1,20 +1,20 @@
 # Task 2 - Phishing Detection & Awareness
 
-## 👩‍💻 Author
+##  Author
 Shreshta S S
 
-## 🎯 Objective
+##  Objective
 To identify phishing emails and classify them based on risk.
 
-## 🛠 Tools Used
+##  Tools Used
 - Email Samples
 - Browser Tools
 
-## 🔍 Work Done
+##  Work Done
 - Identified phishing indicators
 - Classified emails (Safe/Suspicious/Phishing)
 - Provided awareness guidelines
 
-## 📄 Report
+##  Report
 See attached PDF
 
